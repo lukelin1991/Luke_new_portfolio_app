@@ -13,7 +13,7 @@ const About = () => {
 
           <div>
             <p>
-              Software Engineer | Full-Stack Web Developer | React Developer
+              Software Engineer  Full-Stack Web Developer | React Developer
             </p>
 
             <p>Hello world,</p>
